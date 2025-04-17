@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Abdellahi Farm Project",
+    "content": "Reminder: finalize and test the mini FastAPI project by Thursday!",
+    "username": "Abdellahi"
+  },
+  {
+    "title": "Test Delete Note",
+    "content": "This is just a temporary note to test the DELETE endpoint.",
+    "username": "Abdellahi"
+  },
+  {
+  "title": "Abdu's Test Note",
+  "content": "This is a test note linked to Abdellahi.",
+  "username": "Abdellahi"
+}
+
+]

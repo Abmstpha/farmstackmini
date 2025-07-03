@@ -41,10 +41,6 @@ farmstackmini/
 
 ---
 
-## 📸 Screenshots
-
-*(You can add image links from your GitHub repo here later)*
-
 ---
 
 ## 🔧 Setup Instructions
